@@ -1,0 +1,29 @@
+#container{
+    width: 70%;
+    margin: 0 auto;
+}
+#button button {
+    display:block;
+    margin:20px auto;
+    font-family: fantasy;
+    font-size: 25px;
+    border-radius: 10px;
+    outline: none;
+    padding: 8px;
+}
+
+#button button:active {
+    background-color: antiquewhite;
+}
+
+#image img {
+    display:block;
+    margin:0 auto;
+    padding-top: 20px;
+    height: 100%;
+}
+
+#image {
+   height: 500px;
+   overflow: hidden;
+}
